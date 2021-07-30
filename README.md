@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>configurable-date-input-polyfill</h1>
+    <h1>configurable-date-input-polyfill-ko</h1>
 
 [![Build Status](https://travis-ci.com/KreutzerCode/configurable-date-input-polyfill.svg?branch=master)](https://travis-ci.com/github/KreutzerCode/configurable-date-input-polyfill)
 [![Monthly downloads](https://img.shields.io/npm/dm/configurable-date-input-polyfill.svg)](https://www.npmjs.com/package/configurable-date-input-polyfill)
@@ -40,13 +40,13 @@ They behave as getters and setters.
 
 
 ## Install
-`npm install --save configurable-date-input-polyfill`
+`npm install --save configurable-date-input-polyfill-ko`
 
 Add to your project:
 
-* **Webpack/Browserify:** `require('configurable-date-input-polyfill');`
+* **Webpack/Browserify:** `require('configurable-date-input-polyfill-ko');`
 
-    or alongside **Babel:** `import 'configurable-date-input-polyfill';`
+    or alongside **Babel:** `import 'configurable-date-input-polyfill-ko';`
 
 * **Script Tag:** Copy `configurable-date-input-polyfill.dist.js` from `node_modules` and
 include it anywhere in your HTML.
