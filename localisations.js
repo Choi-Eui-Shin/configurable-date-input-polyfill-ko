@@ -4,6 +4,31 @@
 // Months must be listed in the order January till December.
 
 const localisations = {
+    'ko_ko-KR': {
+        days: [
+            '일',
+            '월',
+            '화',
+            '수',
+            '목',
+            '금',
+            '토',
+        ],
+        months: [
+            '1월',
+            '2월',
+            '3월',
+            '4월',
+            '5월',
+            '6월',
+            '7월',
+            '8월',
+            '9월',
+            '10월',
+            '11월',
+            '12월',
+        ],
+    },
     'en_en-US_en-UK': {
         days: [
             'Su',
